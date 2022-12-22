@@ -1,0 +1,65 @@
+.card {
+    position: relative;
+    
+   
+    left: -50rem;
+    
+}
+
+.TitleShipping {
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-size: 40px;
+    width: -300px;
+    
+}
+
+
+
+.TitleProduct {
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-size: 40px;
+    width: 300px;
+    margin-right: -50rem;
+    
+    
+}
+
+.images {
+display: inline;
+max-height: 150px;
+max-width: 200px;
+width: 120px;
+height: 120px;
+
+}
+
+/*
+
+.shippingTable {
+    display: flex;
+    width: 30%;
+    justify-content: space-between;
+   
+}
+
+.currentShipmentsInfo{
+    display: flex;
+    width: 30%;
+     justify-content: space-between;
+}
+*/
+
+.shipInfo, .shipDef {
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+    width: 100%;
+}
+
+.shipDef {
+    background-color: lightgray;
+}
+
+.shipInfo {
+    background-color: lightblue;
+}

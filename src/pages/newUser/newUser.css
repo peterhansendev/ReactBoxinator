@@ -1,0 +1,33 @@
+.newuser {
+    min-height: 100vh;
+    height: max-content;
+    background-image: url("../login/port-675539_1920.jpg");
+    background-repeat: no-repeat;
+    background-position: center;;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+  
+form {
+    padding: 10px;
+    border-radius: 10px;
+    background-image: linear-gradient(rgba(185, 225, 255, 0.893), rgba(191, 207, 230, 0.938));
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+    border:  1px inset rgba(0, 0, 255, 0.521);
+}
+
+input[type], #col2, #input, #country {
+    background-color: rgb(239 246 255);
+    border-radius: 50px;
+    border: 1px solid rgb(22, 22, 90);
+}
+
+#grid-city2 {
+    border: 1px solid rgb(22, 22, 90);
+}
+
+#col2 {
+    background-color: rgb(249, 250, 198);
+}

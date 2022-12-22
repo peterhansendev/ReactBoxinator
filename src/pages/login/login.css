@@ -1,0 +1,9 @@
+.login {
+    height: 100vh;
+    background-image: url("port-675539_1920.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

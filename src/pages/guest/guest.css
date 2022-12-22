@@ -1,0 +1,11 @@
+.guest {
+    height: max-content;
+    min-height: 100vh;
+    background-image: url("space-g0b2f26af9_1920.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: max-content;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

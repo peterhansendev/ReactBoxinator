@@ -1,0 +1,29 @@
+.updateUserInfo {
+    min-height: 100vh;
+    height: max-content;
+    background-image: url("./world-4292933_1920 (1).jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+
+#updatedUserInfo {
+    width: max-content;
+    font-weight: bold;
+    background-color: rgb(247, 255, 2);
+	color: rgb(0, 0, 0);
+	font-weight: bold;
+	padding: 4px;
+	border-radius: 5px;
+    border-color: black;
+    border-width: 1px;
+    position: absolute;
+    left: 44%;
+}
+
+#updatedUserInfo:empty{
+    display:none
+}
